@@ -1,0 +1,6 @@
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaOrientadoObjetos1\ClaseEjercicio1\bin\Debug\ClaseEjercicio1.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaOrientadoObjetos1\ClaseEjercicio1\bin\Debug\ClaseEjercicio1.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaOrientadoObjetos1\ClaseEjercicio1\obj\Debug\ClaseEjercicio1.csproj.AssemblyReference.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaOrientadoObjetos1\ClaseEjercicio1\obj\Debug\ClaseEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaOrientadoObjetos1\ClaseEjercicio1\obj\Debug\ClaseEjercicio1.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaOrientadoObjetos1\ClaseEjercicio1\obj\Debug\ClaseEjercicio1.pdb

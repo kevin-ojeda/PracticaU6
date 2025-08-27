@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\pruebas_preparcial1\\pruebas_preparcial1\\prueba5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|solutionrelative:pruebas_preparcial1\\prueba5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\pruebas_preparcial1\\pruebas_preparcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|solutionrelative:pruebas_preparcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\pruebas_preparcial1\\pruebas_preparcial1\\prueba4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|solutionrelative:pruebas_preparcial1\\prueba4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\pruebas_preparcial1\\pruebas_preparcial1\\prueba3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|solutionrelative:pruebas_preparcial1\\prueba3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\pruebas_preparcial1\\pruebas_preparcial1\\prueba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|solutionrelative:pruebas_preparcial1\\prueba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\pruebas_preparcial1\\pruebas_preparcial1\\prueba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99065343-5123-47D8-AF17-BF8D4412D27B}|pruebas_preparcial1\\pruebas_preparcial1.csproj|solutionrelative:pruebas_preparcial1\\prueba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prueba5.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba5.cs",
+              "RelativeDocumentMoniker": "pruebas_preparcial1\\Prueba5.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba5.cs",
+              "RelativeToolTip": "pruebas_preparcial1\\Prueba5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:57:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prueba4.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba4.cs",
+              "RelativeDocumentMoniker": "pruebas_preparcial1\\Prueba4.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba4.cs",
+              "RelativeToolTip": "pruebas_preparcial1\\Prueba4.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:16:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prueba3.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba3.cs",
+              "RelativeDocumentMoniker": "pruebas_preparcial1\\Prueba3.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba3.cs",
+              "RelativeToolTip": "pruebas_preparcial1\\Prueba3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:03:27.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prueba2.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba2.cs",
+              "RelativeDocumentMoniker": "pruebas_preparcial1\\Prueba2.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba2.cs",
+              "RelativeToolTip": "pruebas_preparcial1\\Prueba2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:09:40.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prueba1.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba1.cs",
+              "RelativeDocumentMoniker": "pruebas_preparcial1\\Prueba1.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Prueba1.cs",
+              "RelativeToolTip": "pruebas_preparcial1\\Prueba1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:46:19.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Program.cs",
+              "RelativeDocumentMoniker": "pruebas_preparcial1\\Program.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\pruebas_preparcial1\\pruebas_preparcial1\\Program.cs",
+              "RelativeToolTip": "pruebas_preparcial1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:45:53.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

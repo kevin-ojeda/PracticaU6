@@ -1,0 +1,14 @@
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\bin\Debug\net8.0\pruebas_preparcial1.exe
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\bin\Debug\net8.0\pruebas_preparcial1.deps.json
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\bin\Debug\net8.0\pruebas_preparcial1.runtimeconfig.json
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\bin\Debug\net8.0\pruebas_preparcial1.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\bin\Debug\net8.0\pruebas_preparcial1.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\pruebas_preparcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\pruebas_preparcial1.AssemblyInfoInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\pruebas_preparcial1.AssemblyInfo.cs
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\pruebas_preparcial1.csproj.CoreCompileInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\pruebas_preparcial1.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\refint\pruebas_preparcial1.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\pruebas_preparcial1.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\pruebas_preparcial1.genruntimeconfig.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\pruebas_preparcial1\pruebas_preparcial1\obj\Debug\net8.0\ref\pruebas_preparcial1.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema Gestion de Viajes", "Sistema Gestion de Viajes\Sistema Gestion de Viajes.csproj", "{8CFB5A8F-4967-455D-8601-2BDB74A0A21A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{D56B8D18-739A-4023-BDAA-9E9641D46DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CFB5A8F-4967-455D-8601-2BDB74A0A21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFB5A8F-4967-455D-8601-2BDB74A0A21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFB5A8F-4967-455D-8601-2BDB74A0A21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFB5A8F-4967-455D-8601-2BDB74A0A21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56B8D18-739A-4023-BDAA-9E9641D46DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56B8D18-739A-4023-BDAA-9E9641D46DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56B8D18-739A-4023-BDAA-9E9641D46DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56B8D18-739A-4023-BDAA-9E9641D46DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761A50C6-ABF7-4017-9A71-AC9526923871}
+	EndGlobalSection
+EndGlobal

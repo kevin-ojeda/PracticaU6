@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|solutionrelative:clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB5A8F-4967-455D-8601-2BDB74A0A21A}|Sistema Gestion de Viajes\\Sistema Gestion de Viajes.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\sistema gestion de viajes\\sistema gestion de viajes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB5A8F-4967-455D-8601-2BDB74A0A21A}|Sistema Gestion de Viajes\\Sistema Gestion de Viajes.csproj|solutionrelative:sistema gestion de viajes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\clases\\viajerapido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|solutionrelative:clases\\viajerapido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\clases\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|solutionrelative:clases\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\clases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|solutionrelative:clases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\clases\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|solutionrelative:clases\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\clases\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B8D18-739A-4023-BDAA-9E9641D46DBE}|Clases\\Clases.csproj|solutionrelative:clases\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Sistema Gestion de Viajes\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de Viajes\\Program.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Sistema Gestion de Viajes\\Program.cs",
+              "RelativeToolTip": "Sistema Gestion de Viajes\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv4gAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:42:55.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Moto.cs",
+              "RelativeDocumentMoniker": "Clases\\Moto.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Moto.cs",
+              "RelativeToolTip": "Clases\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:50:33.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViajeRapido.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\ViajeRapido.cs",
+              "RelativeDocumentMoniker": "Clases\\ViajeRapido.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\ViajeRapido.cs",
+              "RelativeToolTip": "Clases\\ViajeRapido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:02:23.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Furgoneta.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Furgoneta.cs",
+              "RelativeDocumentMoniker": "Clases\\Furgoneta.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Furgoneta.cs",
+              "RelativeToolTip": "Clases\\Furgoneta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:58:31.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Camion.cs",
+              "RelativeDocumentMoniker": "Clases\\Camion.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Camion.cs",
+              "RelativeToolTip": "Clases\\Camion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:51:28.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Viaje.cs",
+              "RelativeDocumentMoniker": "Clases\\Viaje.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Viaje.cs",
+              "RelativeToolTip": "Clases\\Viaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:48:34.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Clases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\Sistema Gestion de Viajes\\Clases\\Vehiculo.cs",
+              "RelativeToolTip": "Clases\\Vehiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvzAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:45:04.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

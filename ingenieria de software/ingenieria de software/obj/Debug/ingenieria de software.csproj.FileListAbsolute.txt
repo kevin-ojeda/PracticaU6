@@ -1,0 +1,10 @@
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\bin\Debug\ingenieria de software.exe.config
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\bin\Debug\ingenieria de software.exe
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\bin\Debug\ingenieria de software.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\obj\Debug\ingenieria de software.csproj.AssemblyReference.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\obj\Debug\ingenieria_de_software.Form1.resources
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\obj\Debug\ingenieria_de_software.Properties.Resources.resources
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\obj\Debug\ingenieria de software.csproj.GenerateResource.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\obj\Debug\ingenieria de software.csproj.CoreCompileInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\obj\Debug\ingenieria de software.exe
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\ingenieria de software\obj\Debug\ingenieria de software.pdb

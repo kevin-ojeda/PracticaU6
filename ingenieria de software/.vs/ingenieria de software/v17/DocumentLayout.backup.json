@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\ingenieria de software\\ingenieria de software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|solutionrelative:ingenieria de software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|solutionrelative:ingenieria de software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\ingenieria de software\\ingenieria de software\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|solutionrelative:ingenieria de software\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\ingenieria de software\\ingenieria de software\\caramelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F04406-A7C3-46B9-B122-8C23ED4393E5}|ingenieria de software\\ingenieria de software.csproj|solutionrelative:ingenieria de software\\caramelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Form1.cs",
+              "RelativeDocumentMoniker": "ingenieria de software\\Form1.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Form1.cs*",
+              "RelativeToolTip": "ingenieria de software\\Form1.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:59:40.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Carrito.cs",
+              "RelativeDocumentMoniker": "ingenieria de software\\Carrito.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Carrito.cs",
+              "RelativeToolTip": "ingenieria de software\\Carrito.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:15:24.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caramelo.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Caramelo.cs",
+              "RelativeDocumentMoniker": "ingenieria de software\\Caramelo.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Caramelo.cs",
+              "RelativeToolTip": "ingenieria de software\\Caramelo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:14:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Form1.cs",
+              "RelativeDocumentMoniker": "ingenieria de software\\Form1.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\ingenieria de software\\ingenieria de software\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ingenieria de software\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:33:55.477Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

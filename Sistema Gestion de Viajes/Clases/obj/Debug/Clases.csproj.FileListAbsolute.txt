@@ -1,0 +1,6 @@
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Clases\bin\Debug\Clases.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Clases\bin\Debug\Clases.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Clases\obj\Debug\Clases.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Clases\obj\Debug\Clases.pdb

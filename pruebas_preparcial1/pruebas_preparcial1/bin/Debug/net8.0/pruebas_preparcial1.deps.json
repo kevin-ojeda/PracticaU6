@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pruebas_preparcial1/1.0.0": {
+        "runtime": {
+          "pruebas_preparcial1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebas_preparcial1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

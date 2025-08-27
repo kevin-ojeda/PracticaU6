@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F590E4B-21BD-4D65-82C4-72329C49CBB0}|OrientadoObjetoSimilParcial\\OrientadoObjetoSimilParcial.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\orientadoobjetosimilparcial\\orientadoobjetosimilparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F590E4B-21BD-4D65-82C4-72329C49CBB0}|OrientadoObjetoSimilParcial\\OrientadoObjetoSimilParcial.csproj|solutionrelative:orientadoobjetosimilparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\clases\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|solutionrelative:clases\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\clases\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|solutionrelative:clases\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\clases\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|solutionrelative:clases\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\clases\\administradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1A5F06-0960-483D-9A99-DFBDB4788E90}|Clases\\Clases.csproj|solutionrelative:clases\\administradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\OrientadoObjetoSimilParcial\\Program.cs",
+              "RelativeDocumentMoniker": "OrientadoObjetoSimilParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\OrientadoObjetoSimilParcial\\Program.cs",
+              "RelativeToolTip": "OrientadoObjetoSimilParcial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:57:21.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Carrito.cs",
+              "RelativeDocumentMoniker": "Clases\\Carrito.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Carrito.cs",
+              "RelativeToolTip": "Clases\\Carrito.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:26:00.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Cliente.cs",
+              "RelativeToolTip": "Clases\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:07:51.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administradores.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Administradores.cs",
+              "RelativeDocumentMoniker": "Clases\\Administradores.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Administradores.cs",
+              "RelativeToolTip": "Clases\\Administradores.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:31:32.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Clases\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Usuarios.cs",
+              "RelativeToolTip": "Clases\\Usuarios.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:21:46.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Productos.cs",
+              "RelativeDocumentMoniker": "Clases\\Productos.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\OrientadoObjetoSimilParcial\\Clases\\Productos.cs",
+              "RelativeToolTip": "Clases\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:58:14.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

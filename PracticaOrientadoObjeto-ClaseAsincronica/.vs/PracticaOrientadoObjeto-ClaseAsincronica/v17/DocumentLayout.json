@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5141BD1F-4A8F-419D-AE02-C43D26AE22BC}|PracticaOrientadoObjeto-ClaseAsincronica\\PracticaOrientadoObjeto-ClaseAsincronica.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\practicaorientadoobjeto-claseasincronica\\practicaorientadoobjeto-claseasincronica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5141BD1F-4A8F-419D-AE02-C43D26AE22BC}|PracticaOrientadoObjeto-ClaseAsincronica\\PracticaOrientadoObjeto-ClaseAsincronica.csproj|solutionrelative:practicaorientadoobjeto-claseasincronica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\clases\\vaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84537BD-9FB8-4AB0-B199-252F6A6D528C}|Clases\\Clases.csproj|solutionrelative:clases\\vaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mkevi\\Downloads\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\PracticaOrientadoObjeto-ClaseAsincronica\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaOrientadoObjeto-ClaseAsincronica\\Program.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\PracticaOrientadoObjeto-ClaseAsincronica\\Program.cs",
+              "RelativeToolTip": "PracticaOrientadoObjeto-ClaseAsincronica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:54:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\Downloads\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Class1.cs",
+              "ToolTip": "C:\\Users\\mkevi\\Downloads\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Class1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:41:22.324Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Curso.cs",
+              "RelativeDocumentMoniker": "Clases\\Curso.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Curso.cs",
+              "RelativeToolTip": "Clases\\Curso.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:11:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "Clases\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Bicicleta.cs",
+              "RelativeToolTip": "Clases\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:07:24.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Auto.cs",
+              "RelativeDocumentMoniker": "Clases\\Auto.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Auto.cs",
+              "RelativeToolTip": "Clases\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:02:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "Clases\\IVehiculo.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\IVehiculo.cs",
+              "RelativeToolTip": "Clases\\IVehiculo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:55:06.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoTemporal.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\EmpleadoTemporal.cs",
+              "RelativeDocumentMoniker": "Clases\\EmpleadoTemporal.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\EmpleadoTemporal.cs",
+              "RelativeToolTip": "Clases\\EmpleadoTemporal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:53:14.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoPermanente.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\EmpleadoPermanente.cs",
+              "RelativeDocumentMoniker": "Clases\\EmpleadoPermanente.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\EmpleadoPermanente.cs",
+              "RelativeToolTip": "Clases\\EmpleadoPermanente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:39:38.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "Clases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Empleado.cs",
+              "RelativeToolTip": "Clases\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:34:35.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:09:48.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Animal.cs",
+              "RelativeDocumentMoniker": "Clases\\Animal.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Animal.cs",
+              "RelativeToolTip": "Clases\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:55:55.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Direccion.cs",
+              "RelativeDocumentMoniker": "Clases\\Direccion.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Direccion.cs",
+              "RelativeToolTip": "Clases\\Direccion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:14:20.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vaca.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Vaca.cs",
+              "RelativeDocumentMoniker": "Clases\\Vaca.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Vaca.cs",
+              "RelativeToolTip": "Clases\\Vaca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:01:47.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Perro.cs",
+              "RelativeDocumentMoniker": "Clases\\Perro.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\PracticaOrientadoObjeto-ClaseAsincronica\\Clases\\Perro.cs",
+              "RelativeToolTip": "Clases\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:59:39.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

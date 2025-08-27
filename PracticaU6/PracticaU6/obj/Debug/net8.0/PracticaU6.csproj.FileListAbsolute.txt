@@ -1,0 +1,14 @@
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\bin\Debug\net8.0\PracticaU6.exe
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\bin\Debug\net8.0\PracticaU6.deps.json
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\bin\Debug\net8.0\PracticaU6.runtimeconfig.json
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\bin\Debug\net8.0\PracticaU6.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\bin\Debug\net8.0\PracticaU6.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\PracticaU6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\PracticaU6.AssemblyInfoInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\PracticaU6.AssemblyInfo.cs
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\PracticaU6.csproj.CoreCompileInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\PracticaU6.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\refint\PracticaU6.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\PracticaU6.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\PracticaU6.genruntimeconfig.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\PracticaU6\PracticaU6\obj\Debug\net8.0\ref\PracticaU6.dll

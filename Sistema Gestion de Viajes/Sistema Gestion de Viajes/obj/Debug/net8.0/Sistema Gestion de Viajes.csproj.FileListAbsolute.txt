@@ -1,0 +1,18 @@
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\bin\Debug\net8.0\Sistema Gestion de Viajes.exe
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\bin\Debug\net8.0\Sistema Gestion de Viajes.deps.json
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\bin\Debug\net8.0\Sistema Gestion de Viajes.runtimeconfig.json
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\bin\Debug\net8.0\Sistema Gestion de Viajes.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\bin\Debug\net8.0\Sistema Gestion de Viajes.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\bin\Debug\net8.0\Clases.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\bin\Debug\net8.0\Clases.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.csproj.AssemblyReference.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.AssemblyInfoInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.AssemblyInfo.cs
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.csproj.CoreCompileInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema .0F55D113.Up2Date
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\refint\Sistema Gestion de Viajes.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\Sistema Gestion de Viajes.genruntimeconfig.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\Sistema Gestion de Viajes\Sistema Gestion de Viajes\obj\Debug\net8.0\ref\Sistema Gestion de Viajes.dll

@@ -1,0 +1,6 @@
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\clases\bin\Debug\clases.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\clases\bin\Debug\clases.pdb
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\clases\obj\Debug\clases.csproj.AssemblyReference.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\clases\obj\Debug\clases.dll
+C:\Users\mkevi\OneDrive\Documentos\GitHub\PracticaU6\ingenieria de software\clases\obj\Debug\clases.pdb

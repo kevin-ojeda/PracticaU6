@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B778DE-8E35-48C8-85CB-828BE31CF750}|EjercicioVideojuego\\EjercicioVideojuego.csproj|c:\\users\\mkevi\\onedrive\\documentos\\github\\practicau6\\ejerciciovideojuego\\ejerciciovideojuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B778DE-8E35-48C8-85CB-828BE31CF750}|EjercicioVideojuego\\EjercicioVideojuego.csproj|solutionrelative:ejerciciovideojuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\clases\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|solutionrelative:clases\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\clases\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|solutionrelative:clases\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\clases\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|solutionrelative:clases\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\clases\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|solutionrelative:clases\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\clases\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218798A-2D98-4775-B59E-BD17E81588C6}|Clases\\Clases.csproj|solutionrelative:clases\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Combate.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Combate.cs",
+              "RelativeDocumentMoniker": "Clases\\Combate.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Combate.cs",
+              "RelativeToolTip": "Clases\\Combate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:22:06.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\EjercicioVideojuego\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioVideojuego\\Program.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\EjercicioVideojuego\\Program.cs",
+              "RelativeToolTip": "EjercicioVideojuego\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:44:52.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arquero.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Arquero.cs",
+              "RelativeDocumentMoniker": "Clases\\Arquero.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Arquero.cs",
+              "RelativeToolTip": "Clases\\Arquero.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:06:39.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Mago.cs",
+              "RelativeDocumentMoniker": "Clases\\Mago.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Mago.cs",
+              "RelativeToolTip": "Clases\\Mago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:06:14.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guerrero.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Guerrero.cs",
+              "RelativeDocumentMoniker": "Clases\\Guerrero.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Guerrero.cs",
+              "RelativeToolTip": "Clases\\Guerrero.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:56:13.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Personaje.cs",
+              "RelativeDocumentMoniker": "Clases\\Personaje.cs",
+              "ToolTip": "C:\\Users\\mkevi\\OneDrive\\Documentos\\GitHub\\PracticaU6\\EjercicioVideojuego\\Clases\\Personaje.cs",
+              "RelativeToolTip": "Clases\\Personaje.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:47:36.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
